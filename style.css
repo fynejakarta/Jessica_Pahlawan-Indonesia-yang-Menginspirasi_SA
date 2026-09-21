@@ -1,0 +1,27 @@
+body {
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color:darkred;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+}
+
+h2 {
+    color: brown;
+    font-family: "Times New Roman", serif;
+}
+
+p {
+  font-family: monospace;
+}
+ 
+
+
+img {
+    width: 250px;
+}
